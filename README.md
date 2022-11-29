@@ -13,9 +13,9 @@
 
 🎓 ITMO University student
 
-🔭 I’m currently working on MIPT's app for students 
+🔭 I’m currently working on VPN application
 
-🌱 I’m currently learning Android development
+🌱 I’m currently learning 3D printing
 
 ⚡ Fun fact: In Switzerland, it is forbidden to have only one guinea pig because they are bored alone.
 <!--
